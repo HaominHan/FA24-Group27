@@ -1,8 +1,8 @@
-# Group TEAM_NUMBER
-Group Name: TEAM_NAME
+# Group 27
+Group Name: Group ____
 
-[MVP Link](https://docs.google.com/document/d/1xFI9DDdO5HZAcu36Y6NL-RTDry5E3WHkfy-ZEWuqbXM/edit?usp=sharing)
+[MVP Link](https://docs.google.com/document/d/1OuiALIuQ4GbkmaG4GXgLRHHtVgj-MfuC/edit?usp=sharing&ouid=106278662176469662447&rtpof=true&sd=true)
 
 Team Members: STUDENTS_NETIDS
 
-Project Manager: PM_NETID
+Project Manager: sahanah2
